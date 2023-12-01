@@ -9,9 +9,9 @@ const {
   createReaction,
   deleteReaction,
 } = require("../../controllers/thought-controller");
-
+// routes for GET and POST
 router.route("/").get(getAllThoughts).post(createThought);
-//
+// tells the routes for GET,PUT AND DELETE thoughts
 router
   .route("/:thoughId")
   .get(getThoughtsById)
