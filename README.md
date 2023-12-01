@@ -17,3 +17,4 @@ Miniproject from class there will be side by side screenshots provided & you wil
 ![Screenshot 2023-12-01 at 2 01 01 AM](https://github.com/Glidingdiplomat/Social-Network-Api/assets/134241357/b69e3ff5-538a-4980-8c78-0ed9ed192ea7)
 ![Screenshot 2023-12-01 at 2 01 17 AM](https://github.com/Glidingdiplomat/Social-Network-Api/assets/134241357/0ac27734-1d16-4364-97de-7464162e1f61)
 ![Screenshot 2023-12-01 at 2 01 44 AM](https://github.com/Glidingdiplomat/Social-Network-Api/assets/134241357/0d6ce85b-f52b-4408-88ac-38616ffffd80)
+![Screenshot 2023-12-01 at 2 06 32 AM](https://github.com/Glidingdiplomat/Social-Network-Api/assets/134241357/6ffbad00-d362-4c50-a686-0ff5c912fcb1)
