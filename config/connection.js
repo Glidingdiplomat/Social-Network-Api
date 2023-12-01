@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 // this is connecting to the mongodb database using the mongodb uri provided
 //
-mongoose.connect(process.env.MONOGDB_URI || "mongodb://localhost:1107/Sir", {
+mongoose.connect(process.env.MONOGDB_URI || "mongodb://localhost:27017/Sir", {
   userNewUrlParser: true,
   useUnifiedTopology: true,
 });
