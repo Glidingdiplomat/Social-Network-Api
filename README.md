@@ -10,6 +10,7 @@ SO THAT my website can handle large amounts of unstructured data
 
 https://www.w3schools.com/nodejs/default.asp - looking to node.js
 https://www.w3schools.com/nodejs/nodejs_npm.asp - trying to figure out npm been getting errors on command line
+#
 Miniproject from class there will be side by side screenshots provided & you will see what im stuck on.
 
 
